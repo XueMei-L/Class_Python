@@ -7,4 +7,4 @@ def suma(number):
     print(number + number)
 
 
-suma(5)
+suma(5) 
