@@ -99,3 +99,20 @@ for fila in matriz3:
     for elemento in fila:
         print(elemento)
 
+# Tarea 1: 05/12/2025
+# Pedir al usuario una matriz de  3 X 3
+# Introducir valores columna por columna utilizando el bucle for con los indices de la matriz y al final imprimirla por pantalla,
+# es decir:
+# Las siguientes son las iteraciones, pediré una modificación la proxima semana sobre el código, compartiendo la pantalla
+# [2,]
+# [4,]
+# [6,]
+# [2, 3]
+# [4, 6]
+# [6, 9]
+# [2, 3, 4]
+# [4, 6, 8]
+# [6, 9, 16]
+
+
+
