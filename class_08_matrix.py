@@ -159,7 +159,7 @@
 
 # print(matriz)
 
-# Matriz transpuesta
+# Matriz traspuesta
 # Paso 1: Obtener una matriz
 # matrizT = [
 #     [6,4,5],
