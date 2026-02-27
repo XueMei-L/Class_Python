@@ -195,11 +195,6 @@ def function6():
 
 
 
-
-
-
-
-
 # def main():
 
 
