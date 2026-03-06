@@ -43,7 +43,6 @@ print(fibonacci(7))
 # 21 + 13 = 34
 
 
-
 def sum_list(numbers):
     if len(numbers) == 0:
         return 0
@@ -54,7 +53,6 @@ my_list = [1,2,3,4,5,6]
 print(sum_list(my_list))
 
 # 1. Tarea de recursivo: explicar la función, y dime parametros de cada vez cuando llama la función?
-
 
 
 # problema6.py
