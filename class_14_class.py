@@ -64,13 +64,13 @@
 
 # Crear una clase con metodos
 class Cat:
-    # atributos
+    # atributos = valor / datos
     def __init__(self, name, age, energia):
         self.name = name
         self.age = age
         self.energia = 100
     
-    # metodos
+    # metodos = accion que realiza
     def ladrar(self):
         return f"{self.name} dice: ¡Miao Miao~!"
 
